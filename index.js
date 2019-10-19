@@ -161,7 +161,7 @@ class ActiveScene extends Scene {
         })
 
         window.addEventListener('keyup', (e) => {
-            paddle.canMoveLeft = false
+            paddle.canMoveLeft = false烦烦烦
         })
 
 
